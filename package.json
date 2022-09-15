@@ -1,0 +1,26 @@
+{
+  "name": "algorithms-data-structures-p2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v0lume/algorithms-data-structures-p2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v0lume/algorithms-data-structures-p2/issues"
+  },
+  "homepage": "https://github.com/v0lume/algorithms-data-structures-p2#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.14",
+    "jest": "^26.4.2",
+    "ts-jest": "^26.4.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
+}
